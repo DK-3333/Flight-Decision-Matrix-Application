@@ -53,6 +53,12 @@ Our solution helps flight crew query union rules, monitor flight hours, and flag
 ```
 
 ## 🌏 Relational Schema and EER diagram
-![relational_diagram](<img width="806" alt="image" src="https://github.com/user-attachments/assets/043e9b99-3877-42b5-a309-c105a1a16c9b"/>)
+![relational_diagram](https://github.com/user-attachments/assets/d70eace4-7791-42aa-913b-84fc7e74a666)
 ![er diag](https://github.com/user-attachments/assets/06013461-c637-4206-a2b3-a79eb272980b)
+
+## 🗺️ How Captain navigates
+![image](https://github.com/user-attachments/assets/9cd91036-69da-4aea-a900-2bdac3bde98b)
+![image](https://github.com/user-attachments/assets/af528a2c-92b3-479a-8c66-a7ce5a6735e5)
+
+
 
