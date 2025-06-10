@@ -9,14 +9,14 @@ Think of it as your smart first officer, always on duty, never off course.
 - [Overview](#-overview)
 - [Features](#-features)
 - [Project Map](#-project-map)
-- [Relational Schema and EER diagram](#-er-diagram)
+- [Relational Schema and EER diagram](#-relational-schema-and-eer-diagram)
 - [How Captain Navigates](#-how-captain-navigates)
-- [Our MVP's Techstack](#-techstack)
+- [Our MVP's Techstack](#-our-mvp-s-techstack)
 - [Setup Instructions](#-setup-instructions)
-- [Our MVP project UI Demo](#-ui)
-- [Product Strengths & Current Limitations](#-strengths&limitations)
+- [Our MVP project UI Demo](#-our-mvp-project-ui-demo)
+- [Product Strengths & Current Limitations](#-product-strengths-&-current-limitations)
 - [Suggested Technologies](#-suggested-technologies)
-- [Crew & Credits](#-credits)
+- [Crew & Credits](#-crew-&-credits)
 
 ---
 
